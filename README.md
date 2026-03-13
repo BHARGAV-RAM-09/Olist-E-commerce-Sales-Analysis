@@ -19,7 +19,7 @@ Olist serves in the B2B, SaaS space in the Retail market segments.
 ## Data Structure
 The data contains orders by over 90,000 customers and from over 3,000 sellers, from late 2016 to 2018. A schema is provided below:
 
-![Database Schema](database/schema.png)
+![Database Schema](schema.png)
 
 ## Insights Summary
 We focused on the following KPIs:
@@ -88,11 +88,11 @@ The Tableau Public dashboard can be found [here](https://public.tableau.com/app/
 ## Presentation Sample
 The full presentation can be accessed [here](https://docs.google.com/presentation/d/1O1Rh6hxph49wenX7319iD-6u4YIZs0r0rODpjmfIZGE/edit?usp=sharing).
 
-![Slide 1](data/Olist%20Project%20Overview.png)
+![Slide 1](Olist%20Project%20Overview.png)
 
-![Slide 2](data/Olist%20Project%20Overview%20(1).png)
+![Slide 2](Olist%20Project%20Overview%20(1).png)
 
-![Slide 3](data/Olist%20Project%20Overview%20(2).png)
+![Slide 3](Olist%20Project%20Overview%20(2).png)
 
 ## Data Source
 https://www.kaggle.com/datasets/bhanuprasadchouki/olist-cleaned-files
